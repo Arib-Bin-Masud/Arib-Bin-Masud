@@ -1,6 +1,71 @@
-# Medium Documentation
+Architect of Defense: My Cybersecurity Journey Begins
+Arib Bin Masud
+May 23, 2026
 
-Here you can find the articles and documentation I write on Medium as I progress through my cybersecurity journey.
+All good structures have a solid foundation. Today I am laying the first brick of my defence.
 
-## Articles
-[Architect of Defense: My Cybersecurity Journey Begins](https://medium.com/aribbinmasud/architect-of-defense-my-cybersecurity-journey-begins-2c601037f11a)
+I’m a student currently studying for my diploma in engineering in computer science and technology, and I’ve spent a lot of time learning how to make things with code. I have recently changed my focus. I learnt that building systems is only half the battle, and the real challenge (and calling) is learning how to defend them. ​
+
+In an effort to translate this passion into a structured career path, I recently started the Google Cybersecurity Professional Certificate on Coursera.
+
+Today, I’m so proud to announce that I have officially completed the first major milestone of this journey: Course 1: Introduction to Cybersecurity.
+
+To celebrate this milestone, I’m officially launching my blog series, Architect of Defence. This is my living portfolio where I track my progress, share my technical insights and showcase my development from a student to a cybersecurity professional.
+
+Here’s a breakdown of what I learned in Course 1, the challenges I faced, and how this experience has completely changed my mindset.
+
+Course 1 Key Technical Takeaway
+The Core Principles: The CIA Triad:
+
+In the first week of this course I learnt that security is not just a random set of tools but a systematic balance. I spent time in deep understanding of the CIA triad:
+
+Confidentiality: Keeping data out of unauthorised hands.
+
+Data Integrity: Data is accurate, complete, and unmodified.
+
+Availability: Access for authorised users to their systems and data when they need it.
+
+Learning how these three concepts work in harmony reminded me that security is about making smart, calculated choices to keep businesses running safely.
+
+The NIST Framework: Business Security:
+
+One of my favourite parts of Course 1 was learning about security frameworks, in particular the NIST (National Institute of Standards and Technology) Cybersecurity Framework.
+
+I learnt that modern security organisations align their entire defence posture around five core functions: Identify, Protect, Detect, Respond, and Recover. “It was seeing security laid out like this that bridged the technical side of cybersecurity with the operational, business side.
+
+The Analyst’s Toolkit:
+
+We also looked at the day-to-day life of a security operations centre (SOC) analyst. I learned how SIEM (Security Information and Event Management) systems aggregate logs to detect threats and how tools like SQL and Python are used to query databases and automate defences. My background is in CS, so seeing code being applied to security automation seemed like my sweet spot.
+
+The Challenges: My Journey as a Beginner
+
+This first course was a rewarding but definitely not an easy accomplishment. Coming from a pure computer science background, I had to overcome a couple of steep learning curves which forced me to adapt quickly:
+
+Challenge 1: The Jargon Flood
+
+In computer science we have words like variables, loops and databases. But going into cybersecurity was like learning a whole new language in one day. The first overload of acronyms like SOC, SIEM, NIST, CIA, IAM, CVE, phishing vs vishing vs smishing was mind-boggling.
+
+How I overcame it: I understood that I couldn’t just learn definitions by heart. I started creating a personal “security glossary" in my digital notes, where I could map each acronym to a real-world scenario where they made sense to me and were not just letters on a screen.
+
+Challenge 2: Beyond the “Builder” Mentality
+
+My brain is trained as a CS student to ask, “How do I code this to run?” In security I had to invert this logic completely and ask, "If this code works perfectly, how can an attacker still abuse it?” Learning to think like an adversary and understanding threat modelling and risk management were a big mental shift. I had to learn that human error, social engineering and weak policies are often far more dangerous than simple coding bugs.
+
+Challenge 3: Managing the intricacies of compliance
+
+Learning security laws, regulations and organisational standards (like HIPAA, GDPR or PCI-DSS) was very difficult. Clean code is usually more concrete, while compliance and security policies can be abstract and dry. I had to read slowly, study case studies and research how real companies implement these rules to understand how these huge regulations are applied to day-to-day IT operations.
+
+What’s coming next?
+
+Completing Course 1 is just the start. Next is Course 2: Play It Safe: Manage Security Risks, where I go even deeper into risk assessments, threat modelling and vulnerability management.
+While taking all 9 courses in this Google specialisation, I am also building my long-term roadmap to go straight into studying for the CompTIA Network+ and CompTIA Security+ certifications to strengthen my network security knowledge.
+
+Let’s Build Together!
+
+This blog is an open diary of my growth, and I would like to use it to connect with the incredible cybersecurity community.
+
+For industry professionals: How did you deal with the massive amount of new vocabulary and acronyms in the field when you first started?
+
+Dear fellow students: How do you keep up to date with the latest security threats and news?
+
+Thanks for reading the first post of the Architect of Defence. Let me take you on my journey of skill development, and let’s connect on [https://www.linkedin.com/in/arib-bin-masud-cybersecurity] and [https://x.com/aribfahim_13]!
